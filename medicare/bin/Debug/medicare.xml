@@ -1,0 +1,140 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+medicare
+</name>
+</assembly>
+<members>
+<member name="T:medicare.medicareDataSet.billDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:medicare.medicareDataSet.customerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:medicare.medicareDataSet.employeeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:medicare.medicareDataSet.purchaseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:medicare.medicareDataSet.stockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:medicare.medicareDataSet.billRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:medicare.medicareDataSet.customerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:medicare.medicareDataSet.employeeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:medicare.medicareDataSet.purchaseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:medicare.medicareDataSet.stockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:medicare.medicareDataSet.billRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:medicare.medicareDataSet.customerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:medicare.medicareDataSet.employeeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:medicare.medicareDataSet.purchaseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:medicare.medicareDataSet.stockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:medicare.medicareDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:medicare.medicareDataSetTableAdapters.billTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:medicare.medicareDataSetTableAdapters.customerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:medicare.medicareDataSetTableAdapters.employeeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:medicare.medicareDataSetTableAdapters.purchaseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:medicare.medicareDataSetTableAdapters.stockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:medicare.medicareDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(medicare.medicareDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:medicare.medicareDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(medicare.medicareDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:medicare.medicareDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(medicare.medicareDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:medicare.medicareDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:medicare.medicareDataSetTableAdapters.TableAdapterManager.UpdateAll(medicare.medicareDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:medicare.medicareDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:medicare.medicareDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:medicare.medicareDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:medicare.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:medicare.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:medicare.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
