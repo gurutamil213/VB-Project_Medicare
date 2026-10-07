@@ -15,7 +15,7 @@
     End Sub
 
     Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
-        If TextBox1.Text = "admin" And TextBox2.Text = "abi" Then
+        If TextBox1.Text = "bala" And TextBox2.Text = "guru" Then
             Form2.Show()
 
             Me.Visible = False
