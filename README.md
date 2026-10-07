@@ -401,3 +401,13 @@ GitHub: `https://github.com/YOUR-USERNAME`
 ## ⭐ If You Find This Project Useful
 
 If this project helped you, consider giving the repository a ⭐ on GitHub.
+
+# Finally, If you want work with this file do this:
+
+1.Download this entire file
+2.Save it with folder on the excat path "D:\VB-Project_Medicare"
+3.Open Visual Studio 2010
+4.Go to Open Project 
+5.Open -> "D:\VB-Project_Medicare\medicare\medicare.vbproj"
+6.And just run it.
+7.If there any issue contact me :)
