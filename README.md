@@ -1,10 +1,10 @@
-# Medicare Management System
+# Medicare - Pharmacy Management System
 
 A **VB.NET Windows Forms desktop application** for managing the day-to-day operations of a medical/pharmacy-style business. The project uses a **Microsoft Access (`.accdb`) database** for persistent storage and provides separate forms for customers, employees, stock, sales, records, and billing.
 
 ## 📌 Project Overview
 
-The **Medicare Management System** is designed to simplify common management tasks in a medical store or healthcare-related business.
+The **Medicare** is designed to simplify common management tasks in a medical store or healthcare-related business.
 
 The application is built as a desktop application using:
 
