@@ -11,7 +11,7 @@ The application is built as a desktop application using:
 - **Visual Basic .NET (VB.NET)**
 - **Windows Forms**
 - **Microsoft Access Database (`.accdb`)**
-- **ADO.NET / DataSet-based database access**
+- **OLEDB Connection / DataSet-based database access**
 - **Visual Studio**
 
 The project contains multiple Windows Forms that are organized around different business functions.
@@ -63,7 +63,7 @@ The project contains multiple Windows Forms that are organized around different 
 | **VB.NET** | Application programming language |
 | **Windows Forms** | Desktop user interface |
 | **Microsoft Access** | Database |
-| **ADO.NET / DataSet** | Database connectivity and data handling |
+| **OLEDB Connection / DataSet** | Database connectivity and data handling |
 | **Visual Studio** | Development environment |
 
 ---
@@ -250,7 +250,7 @@ The project follows a straightforward desktop application structure:
                │
                ▼
 ┌─────────────────────────────┐
-│      ADO.NET / DataSet      │
+│      OLEDB Connection / DataSet      │
 └──────────────┬──────────────┘
                │
                ▼
